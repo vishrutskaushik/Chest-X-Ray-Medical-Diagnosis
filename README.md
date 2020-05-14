@@ -4,7 +4,7 @@
 
 In this notebook we will explore medical image diagnosis by building a state-of-the-art chest X-ray classifier using Keras. 
 
-The notebook will walk through some of the steps of building and evaluating this deep learning classifier model. In particular, you will:
+The notebook will walk through some of the steps of building and evaluating this deep learning classifier model. In particular, we will:
 - Pre-process and prepare a real-world X-ray dataset
 - Use transfer learning to retrain a DenseNet model for X-ray image classification
 - Learn a technique to handle class imbalance
